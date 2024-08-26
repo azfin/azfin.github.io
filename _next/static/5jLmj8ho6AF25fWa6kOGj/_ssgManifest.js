@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fget-golds","\u002Fuser-approved-list","\u002Fuser-waiting-list","\u002F","\u002Fdu-lieu-nganh","\u002Fdu-lieu-ttck","\u002Fdanh-muc-theo-doi","\u002Fbo-loc-doanh-nghiep","\u002Fdang-ky-san-pham","\u002Fbo-loc","\u002Fbo-loc-ngan-hang"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
